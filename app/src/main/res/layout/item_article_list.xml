@@ -35,7 +35,7 @@
                 android:layout_margin="10dp"
                 android:contentDescription="@string/article_icon"
                 android:scaleType="centerCrop"
-                android:src="@drawable/ic_writer" />
+                android:src="@drawable/ic_article" />
 
             <LinearLayout
                 android:layout_width="match_parent"
