@@ -12,10 +12,10 @@ import javax.inject.Inject;
 /**
  * ArticleDetails view model
  * <p>
- * Author: Lajesh D
- * Email: lajeshds2007@gmail.com
- * Created: 7/24/2018
- * Modified: 7/24/2018
+ * Author: pramod k p
+ * Email: pramodpnckr@gmail.com
+ * Created: 3/30/2019
+ * Modified: 3/30/2019
  */
 
 public class ArticleDetailsViewModel extends ViewModel {
